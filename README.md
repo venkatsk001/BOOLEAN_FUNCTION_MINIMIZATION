@@ -32,7 +32,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
-
+```
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 module exp22(A,B,C,D,F1);
 input A,B,C,D;
@@ -46,9 +46,7 @@ assign x5=(B)&(~C)&(D);
 assign F1=x1|x2|x3|x4|x5;
 endmodule
 
-
-Developed by:BHARATH.N Register no:212223230030
-
+```
 
 **RTL realization**
 ![image](https://github.com/moulidharyadav/BOOLEAN_FUNCTION_MINIMIZATION/assets/147078316/05234e26-2b4c-47b5-8d8b-e63daa922469)
